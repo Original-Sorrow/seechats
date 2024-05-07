@@ -9,3 +9,7 @@ pip install -U pyrogram
 
 usage:
 python3 app.py
+
+
+
+someday there will be an update...
